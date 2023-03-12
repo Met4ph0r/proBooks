@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/proBooks/static/css/main.507f9d9a.css",
+    "main.js": "/proBooks/static/js/main.3e11dfc9.js",
+    "index.html": "/proBooks/index.html",
+    "main.507f9d9a.css.map": "/proBooks/static/css/main.507f9d9a.css.map",
+    "main.3e11dfc9.js.map": "/proBooks/static/js/main.3e11dfc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.507f9d9a.css",
+    "static/js/main.3e11dfc9.js"
+  ]
+}
